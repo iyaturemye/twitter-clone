@@ -1,0 +1,9 @@
+.tweet-container{
+    border-bottom: 1px solid #f7f7f7;
+    margin: 15px;
+    padding-bottom: 20px;
+}
+
+.profile-name span{
+    padding: 10px;
+}
