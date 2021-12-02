@@ -1,6 +1,6 @@
 const MainPopup=(props)=>{
     return (
-        <div></div>
+        <div class="container"></div>
     );
 }
 
